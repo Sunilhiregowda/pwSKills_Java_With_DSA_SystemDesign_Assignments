@@ -1,0 +1,33 @@
+     1)what is git?
+Ans: Git is a DevOps tool used for source code management. It is a free and open-source version control system used to handle small to very large projects efficiently. Git is used to tracking changes in the source code, enabling multiple developers to work together on non-linear development.
+
+    2)what do you understand by the term "version control system".
+Ans: Version control systems are software tools that help software teams manage changes to source code over time.
+  
+   3)what is GitHub?
+Ans: GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+
+   4)mention some popular git hosting services.
+Ans: 1.Bitbucket.
+        2.GitLab.
+        3.Perforce.
+        4.Beanstalk.
+        5.Amazon AWS CodeCommit.
+        6.Codebase.
+        7.Microsoft Azure DevOps.
+        8.SourceForge.
+        9.GitHub.
+
+   5)different types of version control systems?
+Ans: There are two types of Version Control System.
+         1.Centralized Version Control System.
+         2.Distributed Version Control System.
+
+   6)what benefits come with using Git?
+Ans: One of the biggest advantages of Git is its branching capabilities. Unlike centralized version control systems, Git branches are cheap and easy to merge. This facilitates the feature branch workflow popular with many Git users. Feature branches provide an isolated environment for every change to your codebase.
+
+   7)what is git repository?
+Ans: A Git repository tracks and saves the history of all changes made to the files in a Git project. It saves this data in a directory called . git , also known as the repository folder. Git uses a version control system to track all changes made to the project and save them in the repository.
+
+  8)how can you initialize a repository in git?
+Ans: Initializing a new repository by using  git init commond.
